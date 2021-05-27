@@ -55,6 +55,11 @@ Then, install PHP and the required extensions:
 
     $ apt-get install php7.4-cli php7.4-apcu php7.4-bcmath php7.4-curl php7.4-fpm php7.4-gd php7.4-intl php7.4-mysql php7.4-xml php7.4-zip php7.4-zip php7.4-mbstring php7.4-imagick php7.4-exif
 
+Composer v2
+***********
+
+You can install Composer by following the online documentation: https://getcomposer.org/download/
+
 Elasticsearch 7.10
 ******************
 
